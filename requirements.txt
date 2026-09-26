@@ -1,0 +1,4 @@
+# PyTorch(torch, torchvision)는 CUDA 버전을 위해 setup.bat 에서 따로 설치합니다.
+PySide6>=6.7
+numpy>=1.26
+opencv-python>=4.9

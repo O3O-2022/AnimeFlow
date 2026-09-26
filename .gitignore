@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+cache/
+# 외부 코드·모델·도구는 README의 링크에서 받는다 (용량·라이선스)
+tools/ffmpeg/
+third_party/
+*.pth
+*.pkl
+*.ckpt
+*.safetensors
+# 영상·음성 (테스트 결과물)
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.wav
+*.srt

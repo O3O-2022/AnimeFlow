@@ -9,6 +9,8 @@ drawings — **without changing the video length**, so audio and subtitles stay 
 
 > The app's interface is currently in Korean. This guide explains every button you need.
 
+![AnimeFlow while converting: the original drawing and the generated frame side by side, with ETA, speed and GPU memory](docs/images/screenshot-progress.png)
+
 ## Features
 
 - **Frame interpolation to 24–120 fps** with RIFE 4.25 (runs locally on your GPU)
@@ -20,6 +22,10 @@ drawings — **without changing the video length**, so audio and subtitles stay 
 - **Progress view** – ETA, current task, and a live preview of the frame being drawn
 - **Output** – MP4 / MKV / MOV / WebM (NVIDIA hardware encoding)
 - Optional: local AI scene director (Ollama), experimental relighting, experimental Korean AI dubbing
+
+![Top: original 24 fps, the same drawing repeats. Bottom: AnimeFlow 60 fps, every frame moves](docs/images/compare.png)
+*Same moments, 1/60 s apart. Top: original 24 fps drawn on twos – the drawing repeats, then jumps.
+Bottom: AnimeFlow 60 fps – a new in-between every frame. (Demo clip drawn for this README.)*
 
 ## Requirements
 
@@ -47,6 +53,8 @@ drawings — **without changing the video length**, so audio and subtitles stay 
 3. **2 프레임 (Frames)** – pick the target FPS (24–120) and the **빠른 동작** (fast motion) mode.
 4. **3 화질 보정 (Quality)** – tick **원본 보정** (Restore source) to clean the drawings; optionally choose 1080p / 1440p.
 5. Click **▶ 변환 시작** (Start). The progress tab shows the ETA and a live preview.
+
+![Main window after analysis: settings on the left; detected drawings, scene cuts and the frame plan on the right](docs/images/screenshot-analysis.png)
 
 ### Fast-motion modes
 

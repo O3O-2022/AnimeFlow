@@ -2,3 +2,5 @@
 PySide6>=6.7
 numpy>=1.26
 opencv-python>=4.9
+spandrel>=0.4
+gdown>=5

@@ -9,7 +9,8 @@ drawings — **without changing the video length**, so audio and subtitles stay 
 
 > The app's interface is currently in Korean. This guide explains every button you need.
 
-![AnimeFlow while converting: the original drawing and the generated frame side by side, with ETA, speed and GPU memory](docs/images/screenshot-progress.png)
+![Side-by-side: original 24 fps on the left, AnimeFlow on the right](docs/images/compare.gif)
+*Left: original 24 fps (drawn on twos/threes). Right: AnimeFlow. GIFs play at most 50 fps, so this demo is rendered at 50 fps; the app itself goes up to 120 fps.*
 
 ## Features
 
@@ -55,6 +56,8 @@ Bottom: AnimeFlow 60 fps – a new in-between every frame. (Demo clip drawn for 
 5. Click **▶ 변환 시작** (Start). The progress tab shows the ETA and a live preview.
 
 ![Main window after analysis: settings on the left; detected drawings, scene cuts and the frame plan on the right](docs/images/screenshot-analysis.png)
+
+![AnimeFlow while converting: the original drawing and the generated frame side by side, with ETA, speed and GPU memory](docs/images/screenshot-progress.png)
 
 ### Fast-motion modes
 

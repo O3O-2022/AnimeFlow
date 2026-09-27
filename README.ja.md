@@ -9,7 +9,8 @@
 
 > アプリの画面は現在韓国語です。必要なボタンはすべてこのガイドで説明しています。
 
-![変換中の AnimeFlow：元の作画と生成したフレーム、残り時間・速度・GPU メモリ](docs/images/screenshot-progress.png)
+![左：元の 24fps、右：AnimeFlow の比較](docs/images/compare.gif)
+*左：元の 24fps（2〜3 コマ打ち）。右：AnimeFlow。GIF は最大 50fps でしか再生できないため 50fps で作成しています。アプリ本体は 120fps まで対応します。*
 
 ## 機能
 
@@ -54,6 +55,8 @@
 5. **▶ 변환 시작**（変換開始）— 進捗タブで残り時間とプレビューを確認
 
 ![解析後の画面：左は設定、右は検出した作画・カット・フレーム構成](docs/images/screenshot-analysis.png)
+
+![変換中の AnimeFlow：元の作画と生成したフレーム、残り時間・速度・GPU メモリ](docs/images/screenshot-progress.png)
 
 ### 速い動きのモード
 

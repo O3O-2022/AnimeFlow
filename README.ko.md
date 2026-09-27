@@ -6,7 +6,8 @@
 애니메이션은 보통 2~3프레임마다 그림이 바뀝니다. AnimeFlow는 실제 그림을 찾아내 그 사이 프레임을
 로컬 AI(RIFE)로 만들고, 원본 그림도 깨끗하게 보정합니다. **영상 길이가 그대로라서 소리·자막 싱크가 어긋나지 않습니다.**
 
-![변환 중인 AnimeFlow: 원본 그림과 새로 만든 프레임, 남은 시간·속도·GPU 메모리](docs/images/screenshot-progress.png)
+![왼쪽 원본 24fps, 오른쪽 AnimeFlow 비교](docs/images/compare.gif)
+*왼쪽: 원본 24fps (2~3프레임마다 같은 그림). 오른쪽: AnimeFlow. GIF는 최대 50fps까지만 재생되어 50fps로 만들었습니다. 프로그램은 120fps까지 됩니다.*
 
 ## 기능
 
@@ -50,6 +51,8 @@
 5. **▶ 변환 시작** — 진행 탭에서 남은 시간과 미리보기 확인
 
 ![분석이 끝난 화면: 왼쪽은 설정, 오른쪽은 찾아낸 그림·장면 전환·프레임 구조](docs/images/screenshot-analysis.png)
+
+![변환 중인 AnimeFlow: 원본 그림과 새로 만든 프레임, 남은 시간·속도·GPU 메모리](docs/images/screenshot-progress.png)
 
 ### 빠른 동작 모드
 

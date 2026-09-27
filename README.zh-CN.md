@@ -8,7 +8,8 @@
 
 > 目前软件界面为韩语。本指南会说明所有需要用到的按钮。
 
-![转换中的 AnimeFlow：原画与生成的帧并排显示，以及剩余时间、速度、显存](docs/images/screenshot-progress.png)
+![左：原始 24fps，右：AnimeFlow 对比](docs/images/compare.gif)
+*左：原始 24fps（一拍二／一拍三）。右：AnimeFlow。GIF 最多只能以 50fps 播放，所以此演示为 50fps；软件本身最高支持 120fps。*
 
 ## 功能
 
@@ -53,6 +54,8 @@
 5. 点击 **▶ 변환 시작**（开始转换）— 在进度页查看剩余时间和预览
 
 ![分析完成后的界面：左侧为设置，右侧为检测到的原画、镜头切换和帧结构](docs/images/screenshot-analysis.png)
+
+![转换中的 AnimeFlow：原画与生成的帧并排显示，以及剩余时间、速度、显存](docs/images/screenshot-progress.png)
 
 ### 快速动作模式
 

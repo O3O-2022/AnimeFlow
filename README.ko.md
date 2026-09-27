@@ -109,3 +109,8 @@
 [Whisper](https://github.com/openai/whisper) · [Demucs](https://github.com/facebookresearch/demucs) · [Seed-VC](https://github.com/Plachtaa/seed-vc).
 
 사용할 권리가 있는 영상만 처리하세요.
+
+## 라이선스
+
+AnimeFlow는 [MIT 라이선스](LICENSE)로 배포됩니다.
+위의 외부 프로젝트와 모델은 각자의 라이선스를 따릅니다 (예: XTTS v2는 비상업 전용).

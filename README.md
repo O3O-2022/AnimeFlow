@@ -113,3 +113,8 @@ Optional dubbing: [Coqui XTTS v2](https://huggingface.co/coqui/XTTS-v2) (CPML, n
 [Whisper](https://github.com/openai/whisper) · [Demucs](https://github.com/facebookresearch/demucs) · [Seed-VC](https://github.com/Plachtaa/seed-vc).
 
 Please only process videos you have the right to use.
+
+## License
+
+AnimeFlow is released under the [MIT License](LICENSE).
+The third-party projects and models above keep their own licenses (for example, XTTS v2 is non-commercial).

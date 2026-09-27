@@ -111,3 +111,8 @@
 [Whisper](https://github.com/openai/whisper) · [Demucs](https://github.com/facebookresearch/demucs) · [Seed-VC](https://github.com/Plachtaa/seed-vc)。
 
 请只处理你有权使用的视频。
+
+## 许可证
+
+AnimeFlow 以 [MIT 许可证](LICENSE) 发布。
+上述外部项目和模型遵循各自的许可证（例如 XTTS v2 仅限非商业用途）。

@@ -2,6 +2,8 @@
 
 **English** · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
 
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PTPV93Zd59) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zip_yogurt)
+
 Make low-frame-rate anime look smoother and cleaner on your own PC.
 Anime is usually drawn "on twos or threes" (a new drawing every 2–3 frames). AnimeFlow detects the
 real drawings, generates in-between frames with a local AI (RIFE), and can clean up the original
